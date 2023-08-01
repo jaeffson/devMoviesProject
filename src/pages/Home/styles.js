@@ -44,7 +44,7 @@ width: 50%;
 h1{
     font-size: 5rem;
     color: #ffffff;
-    font-weight: 700;
+    font-weight: 600;
    
 }
 p{
